@@ -1,0 +1,9 @@
+{
+  "name": "messages",
+  "version": "0.0.0",
+  "description": "messages",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
